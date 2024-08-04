@@ -43,6 +43,3 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
  
     API_KEY="<YOUR_API_KEY>"
  * Rebuild app
- 
-
-### Application link : <a href="https://drive.google.com/file/d/1u0A4mCkY98cfavE32c6GH_bVp0v9wujr/view?usp=sharing">**Click here to download apk**</a>
